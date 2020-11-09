@@ -47,7 +47,7 @@ namespace Data_IE
                 {
 
                     accum -= (ulong)file.Length;
-
+//file exists
                 }
 
 
